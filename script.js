@@ -128,6 +128,6 @@ function onWindowResize() {
   camera.updateProjectionMatrix();
   renderer.setSize(window.innerWidth, window.innerHeight);
 }
-
-alert("COPY LINK NÀY DÁN VÀO GOOGLE: https://l2002.github.io/KIM_VANG/vang.html")
+alert("Click OK đi công chúa")
+alert("Dán link này vào google sau khi xem xong: https://l2002.github.io/KIM_VANG/vang.html")
 
