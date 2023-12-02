@@ -129,5 +129,5 @@ function onWindowResize() {
   renderer.setSize(window.innerWidth, window.innerHeight);
 }
 
-alert("COPY LINK NÀY DÁN VÀO GOOGLE: ")
+alert("COPY LINK NÀY DÁN VÀO GOOGLE: https://l2002.github.io/KIM_VANG/heart.html")
 
